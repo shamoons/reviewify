@@ -6,10 +6,10 @@ var alchemy = new AlchemyAPI('8c11bb2b0bdaaf679cf25b34104914bc8a092c49');
 fs.readFile('./data/macbookreview.txt', 'utf-8', function(err, body) {
   if(err) throw err;
 
-  alchemy.entities(body, {}, function(err, response) {
+  alchemy.relations(body, {}, function(err, response) {
     if (err) throw err;
 
-    console.log(response);
+    console.log(response.relations);
   });
 });
 
