@@ -3,9 +3,17 @@ angular.module('app', []).
 
         console.log("Controller instantiated.");
 
-        $scope.sendASIN = function () {
-
+        var host = window.location.hostname;
+        var socket = io(host + ":" + 3042);
+        $scope.sendASIN = function (asin) {
+            socket.emit('asin', { asin: asin });
         }
+
+        socket.on('connect', function () {
+            $scope.sendASIN('HELLO!');
+        });
+
+        $scope.reviews = [];
     })
 ;
 
