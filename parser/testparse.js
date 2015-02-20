@@ -6,7 +6,7 @@ var alchemy = new AlchemyAPI('8c11bb2b0bdaaf679cf25b34104914bc8a092c49');
 fs.readFile('./data/macbookreview.txt', 'utf-8', function(err, body) {
   if(err) throw err;
 
-  alchemy.concepts(body, {}, function(err, response) {
+  alchemy.category(body, {}, function(err, response) {
     if (err) throw err;
 
     // See http://www.alchemyapi.com/api/ for format of returned object
