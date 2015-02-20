@@ -24,7 +24,7 @@ fs.readFileAsync('./data/corpus.txt', 'utf-8').then(function(body) {
   });
   console.log('');
   console.log(util.inspect(groupedVerbs, {depth: null}));
-  return alchemy.sentimentAsync(fileData);
+  return alchemy.sentimentAsync(fileData, {});
 }).then(function(response) {
   console.log('\nSENTIMENT!');
   console.log(util.inspect(response.docSentiment, {depth: null}));
@@ -32,7 +32,7 @@ fs.readFileAsync('./data/corpus.txt', 'utf-8').then(function(body) {
 }).then(function(response) {
   console.log('\nKEYWORDS!');
   console.log(util.inspect(response.keywords, {depth: null}));
-  return;
+  return true;
 }).catch(function(err) {
   throw err;
 });
