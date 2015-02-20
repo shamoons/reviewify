@@ -40,8 +40,8 @@ module.exports = function(ASIN, productDescription, reviews) {
           }
         }
     */
-
-    
+    var topKeywords = _.sortBy(keywordCounts, 'count');
+    topKeywords = _.slice(topKeywords, 0, 10);
   });
 
 }
