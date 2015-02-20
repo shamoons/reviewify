@@ -1,0 +1,191 @@
+I purchased the newly updated 13" MacBook Pro and the newly updated 13" MacBook Air the day they were announced at WWDC and released for sale in June 2012. (My 13" MacBook Pro is the 2.9 GHz i7 model, and my MacBook Air is factory upgraded to a 2.0 GHz i7 processor and 8GB RAM.)
+
+After using the two machines side-by-side for a couple weeks now, I can say that the MacBook Air outperforms the MacBook Pro in almost every task and in terms of overall speed and performance. Compared with the newly refreshed and updated Air, the new MacBook Pro is frankly a significant disappointment, and I've pretty much stopped using it altogether in favor of the faster Air. Despite the Air's slower CPU clock speed, it performs faster than the Pro in actual tasks due to the performance boost afforded by it's SSD hard drive. The SSD drive on the MacBook Air makes an enormous difference in everything from casual web browsing to video editing.
+
+If you're debating which 13" MacBook to buy, the 13" MacBook Air or the 13" MacBook Pro, here's a side-by-side comparison...
+
+Speed and Performance: Advantage MacBook Air
+
+Apart from the hard drives and port configurations, the technology inside the machines is virtually identical in both the newly refreshed MacBook Air and MacBook Pro. Both Pros and Airs come with either i5 or i7 Intel "Ivy Bridge" processors, Intel HD Graphics 4000, USB 3.0, and lightning-fast Thunderbolt ports. While the MacBook Air models are at a disadvantage to the MacBook Pro models in terms of CPU clock speeds, any performance disadvantage from the processor speed is more than made up for by the lightning fast performance of the Air's SSD hard drive, which Apple markets as "Flash" storage. In everyday tasks from gaming to web browsing to watching Flash movies and editing video, the MacBook Air is faster significantly faster in virtually every task. The Air boots up in less than 12 seconds while the Pro takes upwards of one minute.
+
+Screen: Advantage MacBook Air
+
+If you've never used a MacBook Air, much less the new Retina display 15" MacBook Pro, then you won't notice just how outdated the MacBook pro's screen is. However, once you get used to the super high resolution 1440 x 900 LED display on the MacBook Air, the 1280 x 800 back-lit LED display on the MacBook Pro looks downright grainy and primitive. Simply put, once you get used to a higher resolution display, the 1280 x 800 display on the 13" MacBook Pro just isn't acceptable. Even for simple tasks like email or word processing where you wouldn't think the resolution would matter, the graphics look grainy and pixelated, which just isn't acceptable for a pro-level laptop in 2012.
+
+Upgradability: Advantage MacBook Pro
+
+The Pro's only major advantage over the Air comes in terms of the flexibility of its hardware, ease of repair, and upgradability. With only a screw driver and about 10 minutes of your time, you can add more memory to the Pro, replace the hard drive, and even add a second hard drive in place of the optical disc drive. The Air, on the other hand, is stuck in the configuration you purchase it in except that you can opt to replace the SSD "Flash" hard drive with a higher capacity SSD drive.
+
+Design, Weight, Portability, Battery Life, and Form Factor: Advantage MacBook Air
+
+The MacBook Air is the most beautiful computer ever produced by man, and the MacBook Pro looks like it's older, pudgy relative. The Air's aluminum case is impeccably designed, almost tailored to accommodate the necessary internal components, while maintaining practical ergonomics. It's an incredibly thin, svelte, sexy little notebook. The MacBook Air's aluminum case seems sturdy and durable, and its mechanics are very similar to the time-test unibody construction of the MacBook Pro. The MacBook Pro, on the other hand, is a bit of a dinosaur in its bulky circa 2006 unibody. The Pro is heavier than a half gallon of milk at 4.5 lbs, while the MacBook Air weighs in at less than 2.9 lbs. Battery life is roughly even on both machines at anywhere from 4 to 7 hours depending on workload and settings.
+
+Summary Judgement: Buy the MacBook Air (or opt for the new 15" Retina display MacBook Pro)
+
+Simply put, the guts of the MacBook Air and the MacBook Pro are basically the same, but the Air's SSD hard drive gives it a tremendously significant boost in performance. Sadly, the MacBook Pro's 5400-rpm hard drive leaves the machine unable to capitalize on the newest, most expensive Intel "Ivy Bridge" i5 and i7 processors that you're paying a $300 premium for in the newly updated Pros. If you are going to buy a Pro, invest the extra money and get it upgraded with a SSD hard drive and get an extra external hard drive if you need additional cheap storage space for multimedia files. When you also consider the superior display, lighter weight, increased portability, and lower price of the MacBook Air, it's hard to find a reason to justify purchasing the current 13" MacBook Pro, which to me looks like a dinosaur rapidly headed for extinction.
+
+Specs on the models compared:
+
+13" MacBook Air (mid 2012) factory upgraded to the 2.0 GHz dual core i7 processor and factory upgraded to 8 GB RAM (1600MHz DDR3L SDRAM) with standard 256 GB SSD ("Flash") hard drive
+
+13" MacBook Pro (mid 2012) with 2.9 GHz dual core i7 processor, 8 GB RAM (1600MHz DDR3L SDRAM), and 750GB Serial ATA Drive @ 5400 rpm
+Both feature Intel HD 4000 Graphics, 3.0 USB, Thunderbolt, 802.11n, etc.
+
+
+
+I am writing this review after using it for around 6 months. It worked fine for 4 months. After that the screen started flickering and I had to forcibly shutdown the laptop with power button. I then upgraded to Mac OS X 10.8 "Mountain Lion". The problem seemed to be resolved. But once I started trying to upgrade to Maverics, as soon as I open iTunes to download the new OS the screen started flickering again for few seconds and screen goes grey. I had to press the power button. And when I come back and open the iTunes again, same problem comes. Not sure if it is a s/w or h/w issue. I am no longer in US to even go to the store for any replacement of warranty stuff. I spent a lot of money on it hoping that I would enjoy by buy. btw, I didn't use this laptop much as I go to work and come back late at night.
+
+
+(I've been editing and editing this piece to address comments below.)
+
+In a nutshell: the MacBook Air is a great laptop with a fantastic operating system, but Mavericks clearly prefers OVER 4GBs of RAM... which is the limit of this specific model.
+
+The good thing about this new MacBook is Apple marked it down $100 from the previous model. The bad thing is that you have to spend that $100 on Apple's site to raise this model above 4GBs of RAM (to 8GBs, both your only option and more than enough RAM).
+
+Since you can't add RAM after purchase or buy an 8GB model on Amazon, this Amazon Air ships as essentially obsolete. If past is precedent, new annual-ish release of OS X will require more RAM as the years pass, slowing this model down even more.
+
+Here's what a reviewer from The Register has to say on this exact subject, "As always, there are numerous build-to-order options, including an i7 processor running at 1.7GHz for an extra £130, although you'd probably want to spend any extra cash on doubling the memory to 8GB of RAM if you intend to keep it for a while."
+
+Apple Apologists in the comments below insist there is enough ram for the average user. The average user, if you'll forgive me, has no idea the numerical amount they need. They just presume for this kind of money Apple included enough RAM, and in this Amazon model instance: they haven't. (Since you can't upgrade the RAM before ordering at Amazon.)
+
+What casual users do know is that they intend to have a web browser always open with a few taxing sites like Facebook open, an open mail app, perhaps the calender, perhaps iTunes open (but not running) and the messaging app.
+
+With the current OS X Mavericks and these aforementioned apps open, you're on the brink of maxing out the four gigs. Push play on iTunes, open up iWorks, play with a big iPhoto library -- or any combination thereof -- and you've exceeded free RAM.
+
+Apple Apologists will inform you that the new compressed memory 'tech' in Mavericks fixes this 4GB problem. Yes and no. In my brand new Maverick iMac, I can open all sorts of stuff in crazy combos and the machine runs surprisingly well. (Stunningly, actually.) But new iMacs come with 8GBS of RAM, twice what this Amazon Air comes with.
+
+But is there something better than software engineering tricks to get the best out of limited RAM? Absolutely. Having the right amount of RAM in the first place.
+
+From a 2013 MacWorld article, "Adding extra RAM is the most inexpensive way to improve the performance of your machine and - now that all new Macs are 64 bit - 8GB should be the minimum amount of memory you put."
+
+From Apple's site regarding compressed memory, "The more memory your Mac has at its disposal, the faster it works. But when you have multiple apps running, your Mac uses more memory. With OS X Mavericks, Compressed Memory allows your Mac to free up memory space when you need it most. As your Mac approaches maximum memory capacity, OS X automatically compresses data from inactive apps, making more memory available."
+
+This doesn't mean unlimited memory. If it did, all Macs would come with 4GBs, right? Why would they ship iMacs and MacBook Pros with 8GBs if compressed memory made it irrelevant? MacBook Pros with 8GBs of RAM do now allow you to downgrade to 4 at purchase. Only upgrade, since, as Apple just old you, "The more memory your Mac has at its disposal, the faster it works."
+
+Exactly. 4GBs isn't quite enough.
+
+Some folks who have read this review have already posted comments inviting you to disregard it. One asks where I get my information from. I own two app (Free Memory/Memory Clean) which accurately report how much system RAM is available. Mavericks eats up just under/over 4GBS of RAM with a minimal amount of taxing apps open, whether it be on my two year old MacBook Air or my brand new iMac. Same exact number.
+
+Read the reviews of the new iMacs anywhere. I personally guarantee that not one reviewer is complaining that 8GBs of RAM is too much and adding unnecessary cost to the unit.
+
+UPDATE: Some comments below suggest this review isn't relevant because I don't own this specific model. And so I went to a Mac store, found THIS model, turned every app off, and rebooted. When the system started fresh with NOTHING BUT OS X MAVERICKS OPEN, 2.75 gigs were already gone. That leaves 1.25 gigs for apps. Virtual memory was already active at 4 gigs. Take 2.75 gigs, add 4 gigs, and what do you get? 6.75 gigs with nothing else open yet.
+
+If that doesn't make the need for 8 gigs clear, what exactly does?
+
+
+I'm coming to this Macbook Pro 13inch Retina laptop from a 2010 model Macbook Air that I absolutely adored for nearly 4 years. The Air was so light and portable that I reluctantly gave it up, but concerns of weight vanished once I got my hands on this beauty. Yes, it's slightly heavier, but only slightly. What I like most of all is how the body isn't tapered from back to front like the Air. It's a solid piece of symmetrical aluminum, and it just feels so well built.
+
+One of the reasons I eventually gave up and sold my Air in favor of this was the Retina screen. I've never seen one on the Macbooks, so I bought this sight unseen, but I had a vague idea of how it might look because I also own a retina iPad Mini and that screen is lovely. The screen on the mini is out-done by the amazing screen on this Macbook. I can't believe how good it is. And what's more, this Macbook only cost 100 dollars more than the latest Air. Why would anyone not pay the difference for this screen? It's totally night and day between the Air's screen and this one. The Air is by no means terrible, but it cant compete with this.
+
+The audio is also a nice surprise on the Macbook with Retina. It was good on my Air, but it's far better on the Retina. There's no speaker grills either, so I assume they're below the keyboard. Regardless they sound amazing, albeit low on bass.
+
+My Air didnt have a backlit keyboard, so this was a nice surprise. No more hunting and hoping at night in bed. Another nice addition I didnt have before was HDMI-out. Now I can simply connect my Macbook to my HDTV and play Hulu on my TV. No reason to pay for Hulu Plus. On my other computer it wouldnt allow Hulu to output to TV, but its not being blocked on the Macbook for some reason. I wont complain.
+
+Anyway, I'd list some dislikes, but I don't have any. The keyboard and trackpad are Apple's usual brilliant keyboard and trackpad. They're unmatched.
+
+If you're on the fence about getting one, just go for it. I'm one of those people that easily get buyer's remorse, but I have none of that with this laptop. So good.
+
+This is my first Mac computer. My first four computers ran Win 3.1, Windows 95, XP, and Vista (from about 1995-present). I have quite a lot of time spent on each of them. Switching from Windows to Mac is not difficult, but it can be a bit frustrating for a week or so. There are Windows features that you will miss, but they are mostly overcome by overall advantages in my opinion.
+
+I've spent two weeks with this machine now. If I had written this review after one day, I would have probably stated that I regretted the switch to Mac. After getting more proficient with the machine and realizing how well it works, I would definitely recommend it to a friend.
+
+This review is going to be a mix of my impressions of both the hardware and the Mac operating system from a new Mac user perspective.
+
+The only difference between my machine and the one on this product page is that I ordered directly from Apple and upgraded the hard drive to 250GB (from the 160GB base option). I am using 2gb of ram and the lower-end processor.
+
+My Mac OS impressions:
+
+The biggest thing I missed from Windows at first was the task bar. Mac uses the "dock" to replace the task bar. The dock is kind of like the quick launch toolbar in Windows spread out across the entire bar, with large icons. Having used windows with a task bar for the past 13 years, I missed the ability to see all open programs and switch between them with the task bar. The dock has a tiny dot below the icon on running-programs, but nothing else to separate it from other program and folder icons. The dock is not nearly as useful for multitasking as the task bar.
+
+The saving grace that rescues the Mac from awkward app-switching while multitasking is called expose. Expose is activated by either pressing a key or using a multitouch gesture (four-finger swipe). Expose uses the entire screen to display all open windows and allow you to switch between them. It's like alt+tab on steroids. Having used the machine for a couple weeks, I miss using expose when I use my Windows machine. As much as I hated the dock at first, I have to give the advantage to the Mac for managing multiple windows while multitasking.
+
+The controls for open-windows are quite different than in MS-Windows. In Mac, there is a resize, hide, and minimize button instead of maximize, minimize, restore, and close. To close an app on the mac you need to use a menu command or keyboard shortcut. The Mac resize button kind of works like restore/maximize, only it's a bit more awkward. A commenter here pointed out that it resizes the window for ideal viewing without using the entire screen. I find myself resizing windows by dragging corners more than I ever did on a Windows machine. I really miss the ability to maximize, if for no other reason but to avoid distractions. The green resize button may be better on an enormous monitor, but not on a 13" notebook. When you minimize or hide an app on the Mac, it is only available from the dock and is hidden from expose. I'll give the window size-management advantage to Windows in this contest. The windows system is just easier and more logical in my opinion. It isn't a deal-breaker, but I do miss the Windows "window controls." If you are a frequent user of the F11 key while web browsing in Windows you'll have to kiss that feature goodbye. Neither Firefox nor Safari will go full-screen.
+
+Windows Explorer is "replaced" with an app called Finder. Finder is kind of like the start menu and an explorer window all rolled up into one. Compared with older versions of Windows, finder is adequate but Vista's explorer is quite a bit easier and more logical to use. I prefer Vista's preview pane to Mac's coverflow. I miss the "up folder" button. I have found myself mostly using the view that puts files, folders and apps into a column view for easiest computer browsing, and it just isn't as elegant as Windows Vista. The lack of a maximize button has caused frustration especially in the finder, because the finder likes to stay in a very small window unless you drag the corners.
+
+The Safari web browser is nice and quick and has a decent security reputation. I have been switching back and forth between Safari and Firefox. Firefox has crashed a couple of times and I really like being able to use multitouch gestures with Safari, so I'm leaning toward making Safari my main web tool. Reading RSS feeds, and the bookmark toolbar are really well done in Safari. Browsers are so personal that it's difficult to recommend one over the other, but as a Firefox user in Windows I think I have high standard and Safari has met or exceeded them.
+
+I absolutely hate the iPhoto app. Iphoto does not allow you to organize and browse your photos in folders. It imports your pictures and sorts them itself based on time/date stamps on the photos. This works fine for personal vacation snapshots but it completely mixed up the rest of my images. Folders that were neatly organized for work projects, and fun web clippings, and adult stuff were all shuffled into one big mess after I imported my image collection. I ended up just deleting all of them and not using iphoto at all. Right now I'm just using Finder to browse my photos and the preview app to view them. Light editing work isn't possible in the preview app and I still haven't decided what to use for a basic photo editor yet. Vista's photo app is junk but it's still superior to iPhoto if you like to keep your photos organized using your own folder system. I know people who love iphoto. It comes down to whether you want the ability to organize your collection yourself. If you have a big mess of photos, you'll love iphoto's ability to organize them via event and face recognition.
+Edited to add: you can organize your photos into "albums" after you import them into iPhoto, but be prepared to spend a lot of time reorganizing everything. Even after you organize into albums, the main library screen gives you views of your entire collection (perhaps things you don't want everyone to see).
+
+I have not used Garage Band or iMovie yet. I'll update later when I get a chance.
+Edited to add: I played with garage band a bit and it's pretty powerful. It allows you to import and export AAC and MP3 tracks and record sound in multiple tracks. Very easy to use. The only other audio app i've ever used is audacity and I much prefer Garage Band. I haven't used any of the music lessons it offers yet but plan to soon.
+I played with iMovie for a few minutes and it seems pretty nice and very intuitive. I actually don't mind Windows Movie Maker, which is included with Vista. I would not consider it a big step up from Win Movie Maker, but it's a nice app.
+
+The mail, calendar, and address book apps are basic but work very very well. The address app will import common file types easily. It will sync with yahoo out of the box. Address book will only sync with Google contacts if you own an iPhone or iPod Touch.
+
+Everyone has an opinion about iTunes. I'm a big fan of it. It's exactly like the windows version only it runs a bit faster without the bugs. If you have an iPhone or iPod touch, the Windows-iTunes bug with time/date being wrong after the computer sleeps is not an issue on the Mac.
+
+Time machine is the Mac's backup app. It is amazing and very simple. I'm using an external drive plugged into my Apple Airport wireless router, as a backup disk. My wireless disk showed up on my desktop instantly once I plugged it into the router. Time machine noticed the external drive right away and went to work backing up my files (after asking permission of course). Now my machine automatically backs up any changes every hour as long as I'm in range of my wireless access point. Time machine is a big load off my mind. If I ever have a drive failure or my computer is destroyed I have an exact backup of everything without remembering to backup my files. Vista will backup according to a set schedule, but it lacks the ability to easily look through backups for specific files. Time machine is wonderful and make wireless backup effortless.
+
+The Mac disk utility is almost as good as the one in Vista and it's easier to use. It's far superior to the one in XP. I used it to format my external wireless drive because the Mac router couldn't read NTFS formating (although the computer can read NTFS drives via USB for some reason).
+
+The graphics control software is a joy to use. When I plug in my external monitor it immediately extends my desktop to the new monitor. Adjusting everything from resolution to rotation couldn't be any easier.
+
+Boot camp is a utility that allows you to create a partition and install Windows as a secondary boot system (you need to own or buy a legal single-disk 32bit copy of either Windows XP or Windows Vista). When you start up the boot camp utility, it gives you a choice between using either 5 or 32 GB of space for the Windows partition. I learned the hard way that Windows XP SP3 won't fit into 5GB. You need to give it at least the 32 GB (which left me with almost exactly 200GB on my "250" GB drive). Installing Windows using the Boot Camp utility is very very easy. Once you get Windows loaded, your OSX install disk makes quick work of installing drivers for all of your laptop's hardware. It's too bad that Nvidia and HP aren't as good at putting together easy Windows driver packages as Apple. In order to boot into Windows, you simply press the "option" key during bootup and it allows you to choose which OS to run. Windows XP absolutely screams on this hardware.
+
+The hardware:
+
+The hardware is where this computer really shines.
+
+The biggest advantage is stability. My last computer purchase was a vista machine. To say that I had stability and hardware compatibility issues with my HP Vista desktop is an understatement. The main reason I turned to mac for this purchase was the fact that the hardware, drivers, and software are made for each other. This machine has ran flawlessly for the past two weeks. I did have two crashes of the Firefox browser while watching Flash video, but only the browser went down rather than the entire system.
+
+I have connected an external monitor, camera, ipod, USB drive, and router to this machine. All of the drivers were already installed and everything has "just worked." The hardware is a joy to use when it just works. It is difficult to put into words how happy I am with the lack of effort in using this machine.
+
+The speed isn't blazing-fast but it runs very well, even with many many apps and windows running. My Vista desktop has similar specs, but my new Mac feels slightly faster.
+
+One outstanding productivity feature of this machine is the touch pad. I honestly prefer it to using a mouse for office and browsing tasks. I can't say enough good things about the multitouch gestures. Two finger scrolling, two finger right-click, three finger forward and back in Safari, and four finger expose make this machine feel like like it is part of you. Having the entire surface of the touchpad as the button is brilliant, especially for drag and drop operations. The large size of the touchpad makes it very precise.
+
+The keyboard is really nice. At first I thought the keys were a bit soft and the travel was too shallow, but I quickly got used to it and now prefer it to my more "clicky" desktop keyboard. I don't know how I lived this long without a backlit keyboard. The backlight is more useful than I thought it would be.
+
+The display is beautiful. It has good color, a wide viewing angle, and is plenty bright for indoor environments. I would prefer that the screen wasn't glass, but the reflections aren't as bad as I feared. If there is a bright light source behind you, you'll need to angle the screen to reduce the glare but it's workable.
+
+The DVD drive is a DVD drive. It feels slow and makes a lot of noise. I've never owned an optical drive that I considered fast and quiet, and this one isn't any exception. It works well, but isn't anything special.
+
+The battery life is incredible. The seven hour battery life is not an exaggeration if you are using the computer for light browsing and office apps. Expect about 4-5 hours if you're using it for heavy web browsing and a bit of media. Listening to music with the display off would easily last over the advertised 7 hours. Streaming high definition video on netflix using wireless will knock it down to at or below three hours. I haven't watched DVD movies on battery power but I expect it to barely get you through a single two hour film with a bit left over.
+
+The size and weight are ideal for portability. 4.5lbs doesn't exactly feel light until you compare it to similarly spec'd machines that weigh a full pound (20%) more. I wouldn't want a larger machine if I had to lug it around much.
+
+The speakers are quite good for a small light machine. Don't expect much bass, but the sound is very clear with good mids and highs. The speakers are plenty loud for listening to podcasts or music in a semi-quiet medium sized room or office. I won't need to pack external speakers for use in my hotel room when I travel, like my last laptop.
+
+The "magsafe" power adapter is more than just a gimmick, and more than just a way to avoid tripping and breaking your machine. The "power brick" itself is a lot smaller than my last dell laptop. It's exactly the same size as the USB wall adapters that used to be included with ipods. The cord is 6ft long and the brick includes fold-out wings to wrap the cord around. It is very well thought-out for travel. With the cord wrapped up and the plug folded into the body, the power brick only takes up about 2.5" x 3" x 1" in your bag. When you are using it at home or at the office there is an included 6ft extension cord for the power brick so you aren't as tethered to your desk.
+
+The computer runs very cool compared to most laptops. Also, there are no vents where super-heated air blows out. While I'm sure it uses a fan, I've never audibly actually heard it run or felt a stream of warm air from it. I think it may vent through ports and the keyboard but it runs cool enough that you don't notice it. Edited to add: it does get rather warm when watching high resolution video, but stays quite cool when web browsing or using normal office apps. Even when very warm, the fan is still quiet (the only way to actually hear the fan is to hold it near your ear).
+
+The only drawback to the hardware compared to Windows machines is the fact that there is no option to hibernate when closing the lid. It sleeps when you close the lid but it still is using a small amount of power. If you're only going to be away for a couple hours this isn't an issue, but you must completely shut down when on battery power if you're going to be away much longer.
+
+This machine is a lot more expensive than similarly spec'd Windows machines but I feel that it's worth the money. I'm a very satisfied Mac switcher.
+
+When i bought this it said that the computer was in good conditions but it has just been freezing, crashing and shutting off every day multiple times, sometimes 5 times in 1 hour. I would give a one star but the shipping was really fast.
+
+
+I purchased my 13.3 inch MacBook Pro on January 25, 2010. As of today the following components have failed 1) logic board (motherboard), 2) hard drive, and 3) wireless card.
+
+Now, you may wonder why I would give the product even a two star rating.
+
+The answer is service.
+
+In this regard, as the owner of several Apple products (one G4 Powerbook, one MacBook, two iPodTouches with a couple of 1G & 2G iPods thrown in the mix) I think it important for prospective purchasers to understand what they are getting when they purchase an Apple product. Stated in slightly different terms; what is it that justifies paying the Apple "premium"?
+
+First, great design.
+
+Second, a very gook operating system.
+
+Third, excellent product support widely available on a walk-in basis. (I can't imagine what it would have been like to deal with these issues via tech support in another country and a repair depot in another state.)
+
+Notice that reliability is not on my list. It would be nice if it were but I think the reality is that this particular notebook is neither more, nor less, reliable than the other top-tier notebook manufacturers.
+
+Would I buy another?
+
+Maybe.
+
+
+I have had this laptop for about 7 months now and I am already having issues with it. First off...this laptop is not as durable as one might think. The aluminum casing is incredibly durable, however it only takes a minor bump for this laptop to go out of commission. This happened with my laptop. I've had so much worse happen all of my other laptops and they all came out unscathed. However, this laptop took a very small fall from a couch onto a rug and it is now barely functioning. I'm not even downplaying in the slightest how small this bump was and I was shocked that something so small could cause a laptop to fall apart. The Superdrive is broken won't take DVD's/CD's and I was told that this is about the price of the laptop to replace. So I just went ahead and bought an external drive. The mousepad isn't working so I had to go buy a wireless one. There are several other things wrong with it, I won't go into EVERYTHING because I would be writing forever.
+
+I very badly want to love this Mac and I am willing to try again because it's possible I just got screwed with a bad one. If you get this Mac, by it from BestBuy an GET THE ADDITIONAL WARRANTY! Then protect it with your life because it can fall apart if you look at it the wrong way.
+
+My personal MacBook Pro MB90LL/A has had and is still having issues since the day I received it. It freezes up during the start-up menu, and if not there, then when I'm surfing the web. Which is quite frustrating. I brought this MacBook because I've heard tons and tons of good news about it, but now I want to throw it out and switch to PC. Another issue I have with this MacBook Is the "Bad RAM" alerts. Once I received the laptop, it immediately had RAM malfunctions after the 1st day. I was fortunate enough to receive new RAM sticks to fix the issue, WRONG!! Even with new RAM sticks my MacBook Pro continued to have the same issues.
+I do not recommend any one to buy this product, at least not from the Amazon company I've gotten mine from. If you get a MacBook Pro please buy new and not a used or refurbished one.
+
+
+I bought a MacBook Pro directly from the Apple store. At first I was impressed by the speed, mostly booting up and shutting down, considering I was used to a PC with Windows Vista. Over time, things started locking up just like on a PC. 7 months old and the battery is about to die. A friend of mine has a $2600 MacBook Pro that already needed the DVD drive replaced. I sold this thing and got a $300 PC laptop that runs just as well and just as quickly with Windows 7. Lesson learned: sometimes, more expensive is not better.
