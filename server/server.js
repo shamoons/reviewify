@@ -7,8 +7,8 @@ var PORT = 3042;
 app.listen(PORT);
 
 io.on('connection', function (socket) {
-    socket.on('asin', function (data) {
-        // { asin: 'XXXXXXXXXX' }
+    socket.on('sku', function (data) {
+        // { sku: 'XXXXXXXXXX' }
         console.log(data);
     });
 });
