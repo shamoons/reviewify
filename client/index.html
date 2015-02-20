@@ -1,9 +1,25 @@
 <html ng-app="app">
-<head>
-    <script src="components/angular/angular.min.js"></script>
-    <script src="components/socket.io-client/socket.io.js"></script>
-    <script src="app.js"></script>
-</head>
-<body ng-controller="AppController">
-</body>
+	<head>
+			<script src="components/angular/angular.min.js"></script>
+			<script src="components/socket.io-client/socket.io.js"></script>
+			<script src="app.js"></script>
+	</head>
+	<body ng-controller="AppController">
+		<ul>
+			<li ng-repeat="item in items">
+				<h1>item.name</h1>
+				<ul class="prosList">
+					<li ng-repeat="(key,val) in item.pros">
+						pro.text
+					</li>
+				</ul>
+				<ul>
+					<li ng-repeat="(key,val) in item.cons">
+						
+					</li>
+				</ul>
+			</li>
+		</ul>
+		
+	</body>
 </html>
