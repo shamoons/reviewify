@@ -12,6 +12,8 @@ angular.module('app', []).
         socket.on('connect', function () {
             $scope.sendASIN('HELLO!');
         });
+
+        $scope.reviews = [];
     })
 ;
 
