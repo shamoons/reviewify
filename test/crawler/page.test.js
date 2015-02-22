@@ -10,8 +10,8 @@ describe('Crawler', function() {
 	  it('crawl successfully', function () {
 		  
 		  var url = 'http://www.amazon.com/Pampers-Swaddlers-Diapers-Economy-Count/product-reviews/B00DFFT76U';
-		  var p = new page(url);
-		  p.crawl(function(err, $, reviewIds, nextUrl){		  
+		  var p = new page();
+		  p.crawlAmazonReviewInframe(url, function(err, $, reviewIds, nextUrl){		  
 			  expect(err).to.be.null;
 			  expect($).to.not.be.empty;
 			  expect(reviewIds).to.not.be.empty;
@@ -26,8 +26,8 @@ describe('Crawler', function() {
 	  
 	  it('crawl unsuccessfully', function () {		  
 		  var url = 'http://not-exist';
-		  var p = new page(url);
-		  p.crawl(function(err, $, reviewIds, nextUrl){
+		  var p = new page();
+		  p.crawlAmazonReviewInframe(url, function(err, $, reviewIds, nextUrl){
 			  expect(err).to.not.be.empty;
 			  expect($).to.be.empty;
 			  expect(nextUrl).to.be.empty;
