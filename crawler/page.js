@@ -2,6 +2,13 @@ var _ = require('lodash');
 var request = require('request');
 var cheerio = require('cheerio');
 
+/**
+ * a general web page crawler
+ * 
+ * @param {string}   opts            configuration option json string
+ *
+ */
+
 function Page (opts) {
 	this.options = {};
 	this.init(opts);
@@ -21,6 +28,13 @@ Page.prototype.init = function (opts){
 	this.options = _.extend(defaultOptions, opts);
 }
 
+/**
+ * crawl a web page
+ * 
+ * @param {string}   url            web page url
+ * @param {function}   cb            callback function
+ *
+ */
 
 Page.prototype.crawl = function (url, cb){
 	request(url, function (error, response, html) {
@@ -39,6 +53,13 @@ Page.prototype.crawl = function (url, cb){
 	
 }
 
+/**
+ * crawl amazon review iframe page
+ * 
+ * @param {string}   url            amazon review iframe url obtained by amazon API
+ * @param {function}   cb            callback function
+ *
+ */
 Page.prototype.crawlAmazonReviewInframe = function (url, cb){
 	this.crawl(url, function (error, $) {
 		if(error){
@@ -67,6 +88,14 @@ Page.prototype.crawlAmazonReviewInframe = function (url, cb){
 		 
 	});
 }
+
+/**
+ * crawl amazon review individual page
+ * 
+ * @param {string}   rId            amazon review id
+ * @param {function}   cb            callback function
+ *
+ */
 
 Page.prototype.crawlAmazonReviewById = function(rId, cb){
 	var url = "http://www.amazon.com/review/" + rId;
