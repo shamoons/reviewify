@@ -2,8 +2,7 @@ var _ = require('lodash');
 var request = require('request');
 var cheerio = require('cheerio');
 
-function Page (url, opts) {
-	this.url = url;
+function Page (opts) {
 	this.options = {};
 	this.init(opts);
 } 
@@ -23,16 +22,30 @@ Page.prototype.init = function (opts){
 }
 
 
-Page.prototype.crawl = function (cb){
-	request(this.url, function (error, response, html) {
-		
+Page.prototype.crawl = function (url, cb){
+	request(url, function (error, response, html) {
 		if(error || (response && response.statusCode !=200)){
 			if(cb)
 				return cb(error||new error(response.statusCode));
 			return;
 		}
+		
 		var $ = cheerio.load(html);
 		
+		if(cb)
+			return cb(null, $);
+		return $;
+	});
+	
+}
+
+Page.prototype.crawlAmazonReviewInframe = function (url, cb){
+	this.crawl(url, function (error, $) {
+		if(error){
+			if(cb)
+				return cb(error||new error(response.statusCode));
+			return;
+		}
 		var pageLinkTags = $('.paging a');
 		
 		var nextTag = pageLinkTags[pageLinkTags.length - 1];
@@ -57,14 +70,13 @@ Page.prototype.crawl = function (cb){
 
 Page.prototype.crawlAmazonReviewById = function(rId, cb){
 	var url = "http://www.amazon.com/review/" + rId;
-	request(url, function (error, response, html) {
-		
-		if(error || (response && response.statusCode !=200)){
+	this.crawl(url, function (error, $) {	
+		if(error){
 			if(cb)
 				return cb(error||new error(response.statusCode));
 			return;
 		}
-		var $ = cheerio.load(html);		
+			
 		var reviewText = $('.reviewText').text();
 		
 		var authorInf = $('.crAuthorInfo')['0'].children;		
