@@ -39,6 +39,15 @@ module.exports = function(ASIN, productDescription, reviews) {
           featureCounts[relation.subject.text].count = 1;
           featureCounts[relation.subject.text].sentiment = relation.object.sentiment.score;
         }
+        // if(keywordCounts[keyword.text]) {
+        //   keywordCounts[keyword.text].count++;
+        //   keywordCounts[keyword.text].relevance += keyword.relevance;
+        //   keywordCounts[keyword.text].sentiment += keyword.sentiment.score;
+        // } else {
+        //   keywordCounts[keyword.text].count = 1;
+        //   keywordCounts[keyword.text].relevance = keyword.relevance;
+        //   keywordCounts[keyword.text].sentiment = keyword.sentiment.score;
+        // }
       });
     });
 
@@ -47,10 +56,12 @@ module.exports = function(ASIN, productDescription, reviews) {
         keywordCounts = {
           'screen resolution': {
             count: 12,
+            relevance: 3.1323,
             sentiment: 9
           },
           'weight': {
             count: 1,
+            relevance: 0.001,
             sentiment: 0
           }
         }
