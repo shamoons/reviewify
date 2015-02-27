@@ -8,7 +8,7 @@ describe('Amazon service', function() {
 	    
 	  it('itemLookup call successfully', function () {
 		  amazon.itemLookup('B00008OE6I', function(err, result){
-			  console.log(result);
+			  //console.log(result);
 		  });
 		
 	   });
