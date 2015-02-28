@@ -12,8 +12,12 @@ describe('alchemy service', function() {
 	  it('keywords api call successfully', function () {
 		  
 		  fs.readFileAsync('./data/corpus.txt', 'utf-8').then(function(body) {
-			  alchemy.keywords([body]).then(function(res){console.log(res);});	  
-			  
+			  alchemy.keywords([body]).then(function(res){
+				  expect(res).to.not.be.empty;
+				  expect(res[0].relevance).to.not.be.empty;
+				  expect(res[0].sentiment).to.not.be.empty;	  				  
+				  //console.log(res);
+			  });	  
 		  });
 			
 	   });

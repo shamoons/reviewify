@@ -8,6 +8,8 @@ describe('Amazon service', function() {
 	    
 	  it('itemLookup call successfully', function () {
 		  amazon.itemLookup('B00008OE6I', function(err, result){
+			  expect(result).to.not.be.empty;
+			  expect(result[0]).to.contains('www.amazon.com/reviews/iframe');
 			  //console.log(result);
 		  });
 		
