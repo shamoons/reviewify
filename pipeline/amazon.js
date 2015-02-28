@@ -3,7 +3,7 @@ var amazon = require('../services/amazon'),
 	alchemy = require('../services/alchemy');
 
 /*
- * review analystics pipeline demonstrated by using amazon review text mining
+ * review analytics pipeline demonstrated by using amazon review text mining
  * input is asin
  * output is feature extraction result
  */
